@@ -51,7 +51,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 Deployed Application: https://laboettcher.github.io/Bootcamp-Challenge-2/
 
-Github Repository: 
+Github Repository: https://github.com/laboettcher/Bootcamp-Challenge-2
 
 ## References
 
