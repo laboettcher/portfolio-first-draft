@@ -38,8 +38,7 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Mock-Up
 
-![02-advanced-css-homework-demo-1](https://user-images.githubusercontent.com/114205917/197721292-a3efce3e-df60-4c5d-8760-17be3f3b3745.gif)
-
+![Uploading Screen Shot 2022-11-30 at 5.52.52 PM.png…]()
 
 ## Challenge Steps
 
